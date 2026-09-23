@@ -1,0 +1,9 @@
+export const APPROVAL_LEVEL_1 = 1;
+export const APPROVAL_LEVEL_2 = 2;
+export const APPROVAL_STATUS = {
+  PENDING: "PENDING",
+  APPROVED: "APPROVED",
+  REJECTED: "REJECTED",
+  PENDING_LV1: "PENDING_LV1",
+  PENDING_LV2: "PENDING_LV2",
+} as const;
