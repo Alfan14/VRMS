@@ -1,8 +1,7 @@
 # Fleet Reserve — Vehicle Reservation & Monitoring System
 
 Aplikasi monitoring dan pemesanan kendaraan untuk perusahaan tambang nikel dengan
-banyak lokasi (kantor pusat, kantor cabang, dan beberapa site tambang). Dibangun untuk
-memenuhi **Technical Test — Fullstack Developer (Intern), PT Sekawan Media Informatika**.
+banyak lokasi (kantor pusat, kantor cabang, dan beberapa site tambang). 
 
 > Dokumen ini adalah panduan utama monorepo. Detail teknis masing-masing bagian ada di
 > [`backend/README.md`](./backend/README.md) dan [`frontend/README.md`](./frontend/README.md).
@@ -136,5 +135,3 @@ Dicatat secara transparan agar mudah ditindaklanjuti sebelum submission:
    mengizinkannya, tapi sebaiknya dirapikan.
 
 ---
-
-**PT Sekawan Media Informatika — Technical Test Fullstack Developer (Intern)**
